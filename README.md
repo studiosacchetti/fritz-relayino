@@ -6,7 +6,7 @@ It provides a simple call monitoring functionality to play a siren or switch
 a light when call is placed. Useful for factory or outdoors
 
 Please check the following website for more information:
-https://www.studiosacchetti.com/relayino
+https://www.studiosacchetti.com/2021/attivare-la-sirena-quando-il-fritzbox-riceve-una-chiamata/
 
 **Requirements:**
 - ESP8266 D1 Mini
