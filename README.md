@@ -16,3 +16,6 @@ https://www.studiosacchetti.com/2021/attivare-la-sirena-quando-il-fritzbox-ricev
 **Last changes:**
 - 2021-12-16: Initial internal release
 
+
+partially based on this project
+https://github.com/KoolKeith/fritzbox-callmonitor
