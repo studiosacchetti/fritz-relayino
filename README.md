@@ -5,6 +5,8 @@ This sketch can be used on a ESP8266 D1 Mini with relay module.
 It provides a simple call monitoring functionality to play a siren or switch
 a light when call is placed. Useful for factory or outdoors
 
+Please check the following website for more information:
+https://www.studiosacchetti.com/relayino
 
 **Requirements:**
 - ESP8266 D1 Mini
