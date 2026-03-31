@@ -16,8 +16,8 @@
 #define    CHECKCONNECTION                      10000         // Milliseconds
 #define    DEVICE_NAME                          "ESP-relay"   // Device name
 
-const char* ssid     = "ssnet_nomap";                         // The SSID (name) of the Wi-Fi network you want to connect to
-const char* password = "pippo2021";                           // The password of the Wi-Fi network
+const char* ssid     = "mynet";                         // The SSID (name) of the Wi-Fi network you want to connect to
+const char* password = "mypw";                           // The password of the Wi-Fi network
 //const char* IP = "192.168.0.254";                           // IP address of your router. This should be "192.168.179.1" for most FRITZ!Boxes
 /***********************************************/
 
